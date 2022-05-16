@@ -22,6 +22,10 @@ body {
   justify-content: center;
 }
 
+.nav-bar {
+  text-decoration-line: none;
+}
+
 .join-btn {
   background: #407BFF;
   border-radius: 1em;
